@@ -1,6 +1,7 @@
 
 body {
     /*add background color using the 'background-color' CSS property*/
+    background-color: #00594f;
 }
 
 #clock {
@@ -13,5 +14,6 @@ body {
     font-family: courier, monospace;
     text-align: center;
     font-size: 100px;
+    color:  #ffc844;
     /*add color using the 'color' property*/
 }
